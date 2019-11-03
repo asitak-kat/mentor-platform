@@ -1,0 +1,11 @@
+.profile {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+body {
+    font-family: Helvetica;
+    color: black;
+    display: flex;
+}
