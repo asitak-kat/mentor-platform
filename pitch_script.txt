@@ -4,7 +4,7 @@ K (to all):
 	Today, we're going to present you our mentoring platform.
 K (to S):
 	Oh, hi Sarah!
-	How's everything?
+	How's everything? 
 	How is it going, learning all the company's technologies?
 	Do you need any help?
 S (to K):
@@ -35,11 +35,12 @@ K (1.)	So this is your profile page. You see, on MentorMe, you can
 	be both mentor and a mentee.
 
 K (2.) 	Here is the timetable with your availibilities. That's just the
-	calendar, that we use normally in the company.
+	calendar integrated, that we use normally in the company. 
 
 K (3.) 	Here you can revise your set of skills that you would be 
 	able to mentor.
-	But now you are interested in getting a mentor to help you 
+
+K (1.)	But now you are interested in getting a mentor to help you 
 	with Cloud Computing, so let's file a request!
 
 K (4.) 	So here you select the skill you want to learn, so that's
@@ -78,7 +79,7 @@ Z (8.) 	Right, here is your request, so I just pick the time
 	
 Z (9.) 	Done. Now it's scheduled. 
 	Bring all your questions! 
-	Nice meeting you Zoia! See you around.
+	Nice meeting you Sarah! See you around.
 
 (Z leaving)
 K&S (to Z) Bye!
@@ -91,7 +92,8 @@ K (10.)	I heard there is a bunch of new features comming, but I really
 	like the simplicity of the current version, so I hope they 
 	keep it.
 
-K (11.) Anyway, let's have grab coffee, and you'll tell me everything 
+K (0.) Anyway, let's go grab coffee, and you'll tell me everything 
+
 	about the project that you are working on.
 
 (K&S leaving the stage)
