@@ -1,5 +1,5 @@
 K (to all):
-	Thanks ... 
+ (1.)	Thanks ... 
 	Hi everybody! It's great to be here! 
 	Today, we're going to present you our mentoring platform.
 K (to S):
@@ -22,7 +22,7 @@ K (to S):
 	Yeah, get a mentor, on the mentor platform!
 	Let me show you, it's really simple, it's just gonna take a minute!
 
-K (0.) 	So this is the platform, it's called MentorMe, 
+K (2.) 	So this is the platform, it's called MentorMe, 
 	and it's really great, everybody in the company is on it, 
 	and it's making it really easy to find a mentor, to get 
 	help with the technologies that we use internally.
@@ -31,22 +31,22 @@ K (0.) 	So this is the platform, it's called MentorMe,
 	the company, not just the technologies, but also what they 
 	are working on.
 
-K (1.)	So this is your profile page. You see, on MentorMe, you can 
+K (3.)	So this is your profile page. You see, on MentorMe, you can 
 	be both mentor and a mentee.
 
-K (2.) 	Here is the timetable with your availibilities. That's just the
+K (4.) 	Here is the timetable with your availibilities. That's just the
 	calendar integrated, that we use normally in the company. 
 
-K (3.) 	Here you can revise your set of skills that you would be 
+K (5.) 	Here you can revise your set of skills that you would be 
 	able to mentor.
 
-K (1.)	But now you are interested in getting a mentor to help you 
+K (6.)	But now you are interested in getting a mentor to help you 
 	with Cloud Computing, so let's file a request!
 
-K (4.) 	So here you select the skill you want to learn, so that's
+K (7.) 	So here you select the skill you want to learn, so that's
 	Cloud Computing... And submit.
 
-K (5.1) Now you got a mentor suggested. 
+K (8.) Now you got a mentor suggested. 
 	Oh cool, that's Zoia!  Do you already know her?
 
 S 	No, we haven't met yet.
@@ -57,9 +57,9 @@ K 	Based on both your and Zoia's timetable you got some
 	timeslots suggested, so now you pick those that would work 
 	for you...
 
-K (5.2)	... Here. Aaand Submit!
+K (9.)	... Here. Aaand Submit!
 
-K (6.)	Done. Now you just wait for Zoia to accept or reject your 
+K (10.)	Done. Now you just wait for Zoia to accept or reject your 
 	request.
 
 	...
@@ -71,13 +71,13 @@ K  	Oh hi Zoia! We were just talking about you.
 Z	Hi Sarah, nice to meet you!
 	Ok, so let me see you request.
 
-Z (7.) 	Ah, yes, here I see I got a new request.
+Z (11.) 	Ah, yes, here I see I got a new request.
 	So let me check all my events.
 
-Z (8.) 	Right, here is your request, so I just pick the time
+Z (12.) 	Right, here is your request, so I just pick the time
 	and accept it...
 	
-Z (9.) 	Done. Now it's scheduled. 
+Z (13.) 	Done. Now it's scheduled. 
 	Bring all your questions! 
 	Nice meeting you Sarah! See you around.
 
@@ -88,27 +88,16 @@ K (to S) You see, it's really simple and quick!
 
 S 	Yeah, thanks!
 	
-K (10.)	I heard there is a bunch of new features comming, but I really 
+K (14.)	I heard there is a bunch of new features comming, but I really 
 	like the simplicity of the current version, so I hope they 
 	keep it.
 
-K (0.) Anyway, let's go grab coffee, and you'll tell me everything 
+K (15.) Anyway, let's go grab coffee, and you'll tell me everything 
 
 	about the project that you are working on.
 
 (K&S leaving the stage)
 
-
-
-
-
-
-
-Notes:
- - picking a mentor: depends on company's decision
-	can be somebody with whom the potential mentee has a lot of time
-	overlap, or somebody who the mentee might already know - e.g. from 
-	the same team, or located nearby.
 
 
 
