@@ -11,8 +11,11 @@ MentorMe is a platform to facilitate mentoring within the company.
 It's goal is to help employees with learning of technologies that
 are used within the company, or that are company specific.
 
-Note: the project currently consist mainly of the MentorMePitch.pdf, 
-further things in the docs are basically notes, etc
+We worked on the project very tightly together, discussing desing, 
+how we make the pitch, create the slides, etc.
+
+Note: the project currently consists mainly of the MentorMePitch.pdf, 
+further things in docs folder are basically notes, etc.
 
 Advantages:
  - Finding a mentor is easy:
