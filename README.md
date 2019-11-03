@@ -13,6 +13,10 @@ are used within the company, or that are company specific.
 
 We worked on the project very tightly together, discussing desing, 
 how we make the pitch, create the slides, etc.
+Zoia did a lot on motivating the business model, Katerina proposed 
+the pitch strategy and the story, and paper draft of the slides, 
+Sarah did most of the slides creation. And we were constantly 
+checking with each other, and discussing details.
 
 Note: the project currently consists mainly of the MentorMePitch.pdf, 
 further things in docs folder are basically notes, etc.
