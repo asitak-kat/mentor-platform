@@ -17,10 +17,10 @@
 [Template repo](https://github.com/WomenPlusPlus/hack-n-lead-2019-template-repository) or create your own.
 
 Checklist:
-* [ ] Add all team members
-* [ ] Make it public
-* [ ] Open Source it (use GPL v3, MIT etc)
-* [ ] Add `hnl2019` to topics (Click `Manage Topics`)
+* [x] Add all team members
+* [x] Make it public
+* [x] Open Source it (use GPL v3, MIT etc)
+* [x] Add `hnl2019` to topics (Click `Manage Topics`)
 
 ---
 
@@ -29,8 +29,8 @@ Checklist:
 Do things with your team!
 
 Checklist:
-* [ ] Hack
-* [ ] Be at Hack'n'Lead
+* [x] Hack
+* [x] Be at Hack'n'Lead
 
 ---
 
