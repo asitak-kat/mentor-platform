@@ -1,12 +1,12 @@
-# [Hack n Lead 2019](https://womenplusplus.ch/hacknlead)
+# [MentorMe]
 
 ===
 
-## Steps
+created by
+ - Katerina Bohmova
+ - Zoia Katashinskaia
+ - Sarah Rabah
 
-1. `Fork` this repository
-2. Add your team members as contributors
-3. Put your presentation in the `docs/` folder
-4. This repository **must** be open source (and licensed) in order to submit
-
-
+MentorMe is a platform to facilitate mentoring within the company.
+It's goal is to help employees with learning of technologies that
+are used within the company, or that are company specific.
